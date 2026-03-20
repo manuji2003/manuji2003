@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuji</h1>
-<h3 align="center">AI and Data Science student at Informatics Institute of Technology (IIT) [Robert Gordon University] Sri Lanka</h3>
+<h3 align="center">Computer Science student at Informatics Institute of Technology (IIT) [University of Westminster] Sri Lanka</h3>
 
 - 🔭 I’m currently working on **my degree**
 
